@@ -1,0 +1,4 @@
+Name: Name of the patch
+Author: Name/Names of those who contributed to this patch.
+
+Description: What this patch does, how it affects the theme, and any caveats/known issues.
